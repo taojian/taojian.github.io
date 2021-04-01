@@ -2,7 +2,7 @@
 
 ## JVM运行时内存结构
 
-![JVM内存结构示意图](F:\github.io\taojian.github.io\Ciqah157GD2AYLFtAADxheNgCA0454.png)
+![JVM内存结构示意图](.\Ciqah157GD2AYLFtAADxheNgCA0454.png)
 
 
 
